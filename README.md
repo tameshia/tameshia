@@ -9,16 +9,16 @@
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Applying User Authentication & Access Controls</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - <b>Using Encryption to Enhance Confidentiality & Integrity</b>
+- <b>Using Encryption to Enhance Confidentiality & Integrity</b>
   - [Perform an Injection Attack](https://github.com/tameshia/Perform-and-Injection-Attack)
-  - <b>Implementing an IT Security Policy</b>
+- <b>Implementing an IT Security Policy</b>
   - [Perform an Injection Attack](https://github.com/tameshia/Perform-and-Injection-Attack)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+- <b>Implementing Security Monitoring & Logging</b>
+  - [Perform an Injection Attack](https://github.com/tameshia/Perform-and-Injection-Attack)
+- <b>Configuring Backup and Recovery Functions</b>
+  - [Perform an Injection Attack](https://github.com/tameshia/Perform-and-Injection-Attack)
+- <b>Performing Incident Response & Forensic Analysis</b>
+  - [Perform an Injection Attack](https://github.com/tameshia/Perform-and-Injection-Attack)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
