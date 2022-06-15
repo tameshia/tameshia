@@ -1,4 +1,4 @@
-<h1>Welcome! My name is Tameshia! <br/><a href="https://github.com/tameshia">Programmer</a>, 
+<h1>Welcome! My name is Tameshia! <br/><a href="https://github.com/tameshia">Web Developer</a>, 
   <a href="https://linkedin.com/in/tameshia-scruggs">Cybersecurity Professional</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
