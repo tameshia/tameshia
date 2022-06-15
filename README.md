@@ -2,12 +2,17 @@
   <a href="https://linkedin.com/in/tameshia-scruggs">Cybersecurity Professional</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Assessing Common Atack Vectors</b>
+
+- <b>Assessing Common Attack Vectors</b>
   - [Perform an Injection Attack](https://github.com/tameshia/Perform-and-Injection-Attack)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Performing Packet Capture & Traffic Analysis</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
+- <b>Applying User Authentication & Access Controls</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - <b>Using Encryption to Enhance Confidentiality & Integrity</b>
+  - [Perform an Injection Attack](https://github.com/tameshia/Perform-and-Injection-Attack)
+  - <b>Implementing an IT Security Policy</b>
+  - [Perform an Injection Attack](https://github.com/tameshia/Perform-and-Injection-Attack)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
