@@ -1,6 +1,5 @@
 <h1>Welcome! My name is Tameshia! <br/><a href="https://github.com/tameshia">Programmer</a>, 
-  <a href="https://linkedin.com/in/tameshia-scruggs">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
-
+  <a href="https://linkedin.com/in/tameshia-scruggs">Cybersecurity Professional</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
