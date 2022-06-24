@@ -27,11 +27,9 @@
 
 <h2>📺 Web Development Projects:</h2>
 
-- [Web Development 2022 projects](https://tameshia.altervista.org/)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Web Development Projects 2022](https://tameshia.altervista.org/)
+- [Web Development Projects 2020](https://tameshia.altervista.org/)
+
 
 <h2> 🤳 Connect with me:</h2>
 
