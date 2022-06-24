@@ -33,10 +33,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Web Development Projects:</h2>
 
-- [Web Development Projects 2022](https://tameshia.altervista.org/)
-- [Web Development Projects 2020](https://tameshia.altervista.org/)
 
 
 <h2> 🤳 Connect with me:</h2>
