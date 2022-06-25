@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/tameshia/Projects/blob/main/README.md](https://github.com/tameshia/Projects/blob/main/README.md)
 
-- 📄 Know about my experiences [<iframe src="https://drive.google.com/file/d/1vMzLaNnI9ueLUp1hgphu-elTYZu57QmD/preview" width="640" height="480" allow="autoplay"></iframe>](<iframe src="https://drive.google.com/file/d/1vMzLaNnI9ueLUp1hgphu-elTYZu57QmD/preview" width="640" height="480" allow="autoplay"></iframe>)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1vMzLaNnI9ueLUp1hgphu-elTYZu57QmD/view?ths=true](https://drive.google.com/file/d/1vMzLaNnI9ueLUp1hgphu-elTYZu57QmD/view?ths=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
