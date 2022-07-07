@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/tameshia/Projects/blob/main/README.md](https://github.com/tameshia/Projects/blob/main/README.md)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1q4favmc-r9hTyPqp1acmUXEVq4NOIHVs/view?usp=sharing)
+- 📄 Know about my experience [https://drive.google.com/file/d/1q4favmc-r9hTyPqp1acmUXEVq4NOIHVs/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
