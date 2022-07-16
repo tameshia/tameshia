@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CSS & Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tameshia/Projects/blob/main/README.md](https://github.com/tameshia/Projects/blob/main/README.md)
+- 👨‍💻 All of my projects and labs are available at [https://github.com/tameshia/Projects/blob/main/README.md](https://github.com/tameshia/Projects/blob/main/README.md)
 
 - 📄 Learn about my experience https://drive.google.com/file/d/1q4favmc-r9hTyPqp1acmUXEVq4NOIHVs/view?usp=sharing
 
