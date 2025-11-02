@@ -2,9 +2,10 @@
 <h3 align="center">I am a university student and aspiring cyber security professional.</h3>
 
 - 🔭 I’m currently working on **advancing my web development & cyber security skills.**
-- 🌱 Currently expanding my **AWS Cloud Fundamentals** knowledge and preparing for the CompTIA Security+ exam.
+- 🌱 Currently expanding my **AWS Cloud Fundamentals** knowledge and preparing for the **CompTIA Security+** exam.
+- - 💡 I enjoy building hands-on labs that bring together **cloud infrastructure**, **network security**, and **automation** to explore how technology works securely and efficiently.  
 - 👩🏾‍💻 Explore my [Projects and Labs](https://github.com/tameshia/Projects)
-- 📄 Learn about my experience in my [Portfolio & Resume](https://drive.google.com/file/d/1q4favmc-r9hTyPqp1acmUXEVq4NOIHVs/view?usp=sharing)
+- 📄 Learn about my experience in my [Portfolio & Resume]([https://drive.google.com/file/d/1q4favmc-r9hTyPqp1acmUXEVq4NOIHVs/view?usp=sharing](https://drive.google.com/file/d/1fYaEupDdTkTGJ5MohTOOVWDlQHQ9og4a/view?usp=drive_link))
 
 
 - 👨‍💻 All of my projects and labs are available at [https://github.com/tameshia/Projects/blob/main/README.md](https://github.com/tameshia/Projects/blob/main/README.md)
