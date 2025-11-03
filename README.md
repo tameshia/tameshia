@@ -53,6 +53,32 @@
 </p>
 
 ---
+---
+
+<h3 align="center">💎 Featured Projects</h3>
+
+<p align="center">A selection of labs and learning projects that showcase my growing skills in cloud, cybersecurity, and networking.</p>
+
+<p align="center">
+  <a href="https://github.com/tameshia/cyber-lab">
+    <img src="https://img.shields.io/badge/Cybersecurity_Lab-Red%20%7C%20Blue%20Team%20Practice-8A2BE2?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity Lab Badge"/>
+  </a>
+  <br><sub>🔐 A hybrid red/blue team lab built in VirtualBox and Docker for Security+ practice.</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tameshia/aws-fundamentals-lab">
+    <img src="https://img.shields.io/badge/AWS_Fundamentals_Lab-Cloud%20Computing%20%7C%20Free%20Tier-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Fundamentals Lab Badge"/>
+  </a>
+  <br><sub>☁️ A guided AWS lab exploring EC2, S3, IAM, and networking basics.</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tameshia/Projects">
+    <img src="https://img.shields.io/badge/Projects_Portfolio-Web%20%7C%20Cyber%20%7C%20Cloud-00CED1?style=for-the-badge&logo=github&logoColor=white" alt="Projects Portfolio Badge"/>
+  </a>
+  <br><sub>🧩 A collection of web development, networking, and security projects.</sub>
+</p>
 
 <h3 align="center">📊 GitHub Stats</h3>
 
