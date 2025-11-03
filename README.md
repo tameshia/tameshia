@@ -53,7 +53,6 @@
 </p>
 
 ---
----
 
 <h3 align="center">💎 Featured Projects</h3>
 
