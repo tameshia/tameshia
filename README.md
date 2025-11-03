@@ -8,6 +8,16 @@
 - 📄 Learn more about my experience in my [Portfolio & Resume](https://drive.google.com/file/d/1fYaEupDdTkTGJ5MohTOOVWDlQHQ9og4a/view?usp=drive_link)
 
 <h3>📧 Connect with me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/tameshia-scruggs/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/tameshia" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+
 
 
 - 👨‍💻 All of my projects and labs are available at [https://github.com/tameshia/Projects/blob/main/README.md](https://github.com/tameshia/Projects/blob/main/README.md)
