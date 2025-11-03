@@ -1,13 +1,22 @@
 <h1 align="center">Hi 👋, I'm Tameshia</h1>
 <h3 align="center">University Student • Aspiring Cybersecurity Professional • AWS Cloud Learner ☁️</h3>
 
-- 🔭 I’m currently working on **advancing my web development & cyber security skills.**
-- 🌱 Currently expanding my **AWS Cloud Fundamentals** knowledge and preparing for the **CompTIA Security+** exam.
+---
+
+<div align="center">
+
+- 🔭 I’m currently working on **advancing my web development & cyber security skills.**  
+- 🌱 Currently expanding my **AWS Cloud Fundamentals** knowledge and preparing for the **CompTIA Security+** exam.  
 - 💡 I enjoy building hands-on labs that bring together **cloud infrastructure**, **network security**, and **automation** to explore how technology works securely and efficiently.  
-- 👩🏾‍💻 Explore my [Projects and Labs](https://github.com/tameshia/Projects)
+- 👩🏾‍💻 Explore my [Projects and Labs](https://github.com/tameshia/Projects)  
 - 📄 Learn more about my experience in my [Portfolio & Resume](https://drive.google.com/file/d/1fYaEupDdTkTGJ5MohTOOVWDlQHQ9og4a/view?usp=drive_link)
 
-<h3>📧 Connect with me</h3>
+</div>
+
+---
+
+<h3 align="center">📫 Connect with me</h3>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/tameshia-scruggs/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -17,7 +26,7 @@
   </a>
 </p>
 
--------
+---
 
 <h3 align="center">🧰 Languages and Tools</h3>
 
@@ -47,10 +56,10 @@
 <h3 align="center">🚀 Currently Learning</h3>
 
 <p align="center">
-  ☁️ AWS Cloud Fundamentals  
-  🔒 CompTIA Security+ (SY0-701)  
-  🌐 Networking & Lab Building  
-  💻 Java Programming & Web Development  
+  ☁️ <strong>AWS Cloud Fundamentals</strong><br>
+  🔒 <strong>CompTIA Security+ (SY0-701)</strong><br>
+  🌐 <strong>Networking & Network Security</strong><br>
+  💻 <strong>Java Programming & Web Development</strong>
 </p>
 
 ---
@@ -80,6 +89,8 @@
   <br><sub>🧩 A collection of web development, networking, and security projects.</sub>
 </p>
 
+---
+
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
@@ -88,3 +99,5 @@
 </p>
 
 ---
+
+<p align="center">✨ “Secure your future — one domain at a time.” ✨</p>
