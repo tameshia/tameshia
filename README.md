@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tameshia</h1>
-<h3 align="center">I am a university student and aspiring cyber security professional.</h3>
-
+<h3 align="center">University Student • Aspiring Cybersecurity Professional • AWS Cloud Learner ☁️</h3>
 - 🔭 I’m currently working on **advancing my web development & cyber security skills.**
 - 🌱 Currently expanding my **AWS Cloud Fundamentals** knowledge and preparing for the **CompTIA Security+** exam.
 - 💡 I enjoy building hands-on labs that bring together **cloud infrastructure**, **network security**, and **automation** to explore how technology works securely and efficiently.  
