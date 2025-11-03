@@ -7,6 +7,7 @@
 - 👩🏾‍💻 Explore my [Projects and Labs](https://github.com/tameshia/Projects)
 - 📄 Learn more about my experience in my [Portfolio & Resume](https://drive.google.com/file/d/1fYaEupDdTkTGJ5MohTOOVWDlQHQ9og4a/view?usp=drive_link)
 
+<h3>📧 Connect with me</h3>
 
 
 - 👨‍💻 All of my projects and labs are available at [https://github.com/tameshia/Projects/blob/main/README.md](https://github.com/tameshia/Projects/blob/main/README.md)
