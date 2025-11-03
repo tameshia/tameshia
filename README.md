@@ -17,14 +17,54 @@
   </a>
 </p>
 
+-------
+<h3 align="center">🧰 Languages and Tools</h3>
+
+<p align="center">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">🚀 Currently Learning</h3>
+
+<p align="center">
+  ☁️ AWS Cloud Fundamentals  
+  🔒 CompTIA Security+ (SY0-701)  
+  🌐 Networking & Lab Building  
+  💻 Java Programming & Web Development  
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tameshia&show_icons=true&theme=radical" alt="Tameshia's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tameshia&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
 
 
 
-- 👨‍💻 All of my projects and labs are available at [https://github.com/tameshia/Projects/blob/main/README.md](https://github.com/tameshia/Projects/blob/main/README.md)
-
-- 📄 Learn about my experience https://drive.google.com/file/d/1q4favmc-r9hTyPqp1acmUXEVq4NOIHVs/view?usp=sharing
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tameshia-scruggs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tameshia-scruggs" height="30" width="40" /></a>
 </p>
