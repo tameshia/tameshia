@@ -3,7 +3,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
 - 🔭 I’m currently working on **advancing my web development & cyber security skills.**  
 - 🌱 Currently expanding my **AWS Cloud Fundamentals** knowledge and preparing for the **CompTIA Security+** exam.  
