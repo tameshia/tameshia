@@ -97,7 +97,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=tameshia&show_icons=true&theme=radical" alt="Tameshia's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tameshia&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
-
----
-
-<p align="center">✨ “Secure your future — one domain at a time.” ✨</p>
