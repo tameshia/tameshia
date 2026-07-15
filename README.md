@@ -9,7 +9,7 @@
 - 🌱 Currently expanding my **AWS Cloud Fundamentals** knowledge and preparing for the **CompTIA Security+** exam.  
 - 💡 I enjoy building hands-on labs that bring together **cloud infrastructure**, **network security**, and **automation** to explore how technology works securely and efficiently.  
 - 👩🏾‍💻 Explore my [Projects and Labs](https://github.com/tameshia/Projects)  
-- 📄 Learn more about my experience in my [Portfolio & Resume](https://drive.google.com/file/d/1fYaEupDdTkTGJ5MohTOOVWDlQHQ9og4a/view?usp=drive_link)
+- 📄 Learn more about my experience in my [Portfolio & Resume](https://drive.google.com/file/d/1eaTYZfta1n_s50umsHUj7BSM0OYXNV6W/view?usp=drive_link)
 
 </div>
 
