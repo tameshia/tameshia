@@ -18,8 +18,9 @@ My goal is to build a strong foundation in IT support and systems administration
 
 ### 📂 Featured Projects
 
+- **[Cybersecurity Labs](https://github.com/tameshia/cybersecurity-labs)** — A curated collection of security projects covering Windows event logs, firewall rules, Active Directory, and network traffic analysis.
 - **[IT Systems Administration Labs](https://github.com/tameshia/it-systems-administration)** — Hands-on Windows administration and troubleshooting projects, including a documented Windows startup failure and recovery lab using Hyper-V, Safe Mode, Windows Recovery Environment, and BCDEdit.
-- **[Active Directory User & Group Administration](https://github.com/tameshia/Create-Users-and-Security-Groups)** — Windows Server lab involving user accounts, security groups, PowerShell, and folder access permissions.
+- **[Active Directory User & Group Administration](https://github.com/tameshia/Create-Users-and-Security-Groups)** — Windows Server lab covering Active Directory user and group creation, PowerShell, and group membership management.
 - **[Investigating Failed Windows Logons](https://github.com/tameshia/Identify-Failed-Logon-Attempts-on-Windows-Systems)** — Used Event Viewer and Security Event ID 4625 to examine failed authentication attempts.
 - **[Configuring Windows Defender Firewall Rules](https://github.com/tameshia/Configuring-Windows-Defender-Firewall-Rules)** — Created and reviewed an inbound firewall rule to block TCP port 8080 in a Windows 11 lab.
 
