@@ -17,8 +17,10 @@ My goal is to build a strong foundation in IT support and systems administration
 - **Cloud:** AWS, Azure, and Google Cloud (coursework planned or in progress)
 
 ### 📂 Featured Projects
-- **IT Systems Administration Labs** — Windows troubleshooting, system configuration, Linux, and networking
-- **Cybersecurity Labs** — Security fundamentals and hands-on learning projects
+
+- **[Active Directory User & Group Administration](https://github.com/tameshia/Create-Users-and-Security-Groups)** — Windows Server lab involving user accounts, security groups, PowerShell, and folder access permissions.
+- **[Investigating Failed Windows Logons](https://github.com/tameshia/Identify-Failed-Logon-Attempts-on-Windows-Systems)** — Used Event Viewer and Security Event ID 4625 to examine failed authentication attempts.
+- **[Configuring Windows Defender Firewall Rules](https://github.com/tameshia/Configuring-Windows-Defender-Firewall-Rules)** — Created and reviewed an inbound firewall rule to block TCP port 8080 in a Windows 11 lab.
 
 ### 🎓 Currently Learning
 - CompTIA A+ Core 2
